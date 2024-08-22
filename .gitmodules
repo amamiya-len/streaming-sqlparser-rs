@@ -1,0 +1,3 @@
+[submodule "sqlparser"]
+	path = sqlparser
+	url = https://github.com/amamiya-len/sqlparser-rs.git
